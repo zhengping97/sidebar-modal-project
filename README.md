@@ -1,3 +1,9 @@
+## Screenshots
+<img width="940" alt="sidebar-modal-project (1)" src="https://user-images.githubusercontent.com/36413759/166413148-abe0f1d1-0620-4d22-9d0a-1398e9e392d2.png">
+<img width="947" alt="sidebar-modal-project (2)" src="https://user-images.githubusercontent.com/36413759/166413156-56aaa9a1-f189-426f-b3c5-ed6d803d85dd.png">
+<img width="956" alt="sidebar-modal-project (3)" src="https://user-images.githubusercontent.com/36413759/166413165-683dff7b-2ca3-4dce-8225-ac357b4a1298.png">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
